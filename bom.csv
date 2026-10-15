@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"Mright motor, Mleft motor",2," DC Motor"
+"U3",1," H-bridge Motor Driver"
+"3",1," Breadboard Small"
+"U1",1," Arduino Uno R3"
+"Bat4",1,"4 batteries, AA, no 1.5V Battery"
+"DIST1",1," Ultrasonic Distance Sensor (4-pin)"
+"SERVO1",1,"Positional Micro Servo"
+"D1",1,"Green LED"
+"D2",1,"Red LED"
+"R1, R2",2,"1 kΩ Resistor"
